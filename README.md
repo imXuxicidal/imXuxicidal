@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img width="460" height="300" src="https://imgur.com/a/hpPaiZW/460/300">
+  <img width="668" height="909" src="https://imgur.com/a/hpPaiZW/668/909">
 </p>
   ![lucas flowers](https://imgur.com/a/hpPaiZW)
 <!--
