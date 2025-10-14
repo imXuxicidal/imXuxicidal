@@ -1,8 +1,6 @@
 <div align="center">
 ##Get2knowme!
-![lucasflowers]([fc6ebe76dcb378befd7620b82bd4d0fa.jpg](https://imgur.com/a/hpPaiZW))
-  ![lcflower](https://github.com/[imXuxicidal]/[idk]/blob/[main]/fc6ebe76dcb378befd7620b82bd4d0fa.jpg?raw=true)
-  ![lcflowers](https://imgur.com/a/hpPaiZW.jpg)
+  ![lucas flowers](http://i.imgur.com/hpPaiZW.jpg)
 <!--
 **imXuxicidal/imXuxicidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
