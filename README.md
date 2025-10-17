@@ -3,8 +3,8 @@
 ##
   **Get2knowme!**
 </div>
+<div align="center">
+  
+![lcflwoer](lucasflower.jpg)
 
-<p align="center">
-  <img width="668" height="909" src="lucasflower.jpg/668/909">
-![lcflower](lucasflower.jpg)
-</p>
+</div>
